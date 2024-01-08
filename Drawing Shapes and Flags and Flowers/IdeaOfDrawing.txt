@@ -1,0 +1,21 @@
+علشان مخليهوش يرسم خطوط وهو ماشي 
+to avoid lines when he go to starting location 
+penup()
+pendown()
+
+function to go to location on screen
+goto(x,y)
+
+take degree to change front 
+lt(degree) left turtle
+rt(degree) right turtle
+
+walk steps ahead
+fd(steps)  -> forward distance
+
+to fill color on the closed shape
+begin_fill()
+end_fill()
+
+to set color 
+color("color")
